@@ -13,23 +13,22 @@ Responsive and modern design
 Clean and structured code
 Easy to customize and update
 
-🔧 How to Run Locally
+How to Run Locally
 Clone the repo:
 Copy this link: git clone https://github.com/Azeemkhan315/Azeem-Portfolio-Web.git
 Open the project in VS Code.
 Open index.html in your browser.
 
 
-
-📬 Contact Me
+Contact Me
 Feel free to connect with me:
-💼 LinkedIn: https://www.linkedin.com/in/Azeemkhan3780
-📧 Email: azeemkhan37804@gmail.com
+LinkedIn: https://www.linkedin.com/in/Azeemkhan3780
+Email: azeemkhan37804@gmail.com
 
-🌐 Portfolio Website
-📜 License
+Portfolio Website
+License
 This project is open-source and free to use.
 Preview: 
 
-![Azeem-Portfolio Screenshot]()
+![Azeem-Portfolio Screenshot](Azeem-Portfolio.jpg)
 
